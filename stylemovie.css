@@ -1,0 +1,16 @@
+*{
+    background-color:slateblue;
+    text-align: center;
+}
+h1{
+    color:black;
+
+}
+h2{
+    color: blueviolet;
+
+}
+.image{
+    height:400px;
+    width:300px;
+}

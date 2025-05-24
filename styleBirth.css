@@ -1,0 +1,12 @@
+*{
+    text-align:center;
+    background-color:slateblue;
+    color:black;
+}
+#map{
+    color:dodgerblue;
+}
+#im{
+    height: 50%;
+    width: 50%;
+}
