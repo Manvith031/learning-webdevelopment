@@ -14,3 +14,9 @@ h2{
     height:400px;
     width:300px;
 }
+P{
+    font-family: "Playwrite HU", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
